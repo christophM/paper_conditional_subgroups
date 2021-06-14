@@ -1,0 +1,41 @@
+Package: cs
+Type: Package
+Title: Dependent features
+Version: 0.0.1
+Date: 2019-07-11
+Description: conditional subgroups
+Depends: OpenML,
+         mlr3,
+         mlr3learners,
+         mlr3pipelines,
+         data.table,
+         dplyr,
+         ggplot2,
+         xtable,
+         knitr,
+         testthat,
+         Cairo,
+         kernlab,
+         checkmate,
+         xgboost,
+         randomForest,
+         patchwork,
+         R6,
+         partykit,
+         iml,
+         Metrics,
+         patchwork,
+         ggrepel,
+         here,
+         latex2exp,
+         knockoff,
+         kknn,
+         farff,
+         ranger,
+         trtf,
+         lmerTest,
+         permimp,
+         kableExtra
+License: MIT + file LICENSE
+RoxygenNote: 6.1.0
+VignetteBuilder: knitr
